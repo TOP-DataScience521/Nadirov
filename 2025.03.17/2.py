@@ -13,3 +13,4 @@ if is_divisible(number1, number2):
     print(f"{number1} делится на {number2} нацело.")
 else:
     print(f"{number1} не делится на {number2} нацело.")
+
